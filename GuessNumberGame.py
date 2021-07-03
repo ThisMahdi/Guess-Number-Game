@@ -42,7 +42,7 @@ def GuessNumberGame():
           print("Error")
           break
 
-if "__name__ == "__main__":
+if __name__ == "__main__":
   GuessNumberGame()
   
 # A Simple Code By ThisMahdi | Telegram : @Thisismahdi
