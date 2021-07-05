@@ -1,2 +1,2 @@
-# Guess-Number-Game
+# Guess Number Game
 Bored? Play this simple game.
